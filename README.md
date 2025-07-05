@@ -45,6 +45,6 @@ python main.py
 ```
 and now you can begin using your new AI terminal!
 
-#For more information
+## For more information
 You can see my youtube channel for more information and an explination on how it all works.
 My youtube channel: [Byte Snatcher Codes](https://www.youtube.com/@ByteSnatcherCodes)
