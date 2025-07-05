@@ -22,7 +22,7 @@ Next install the python requirements
 ```
 pip install ollama pexpect httpx
 ```
-Then, you will need to install ollama, which you can do with (this link)[ollama.com/download]
+Then, you will need to install ollama, which you can do with [this link](ollama.com/download)
 Next, select your operating system.
 When it is done installing, go back to your terminal and type in
 ```
@@ -47,4 +47,4 @@ and now you can begin using your new AI terminal!
 
 #For more information
 You can see my youtube channel for more information and an explination on how it all works.
-My youtube channel: (Byte Snatcher Codes)[https://www.youtube.com/@ByteSnatcherCodes]
+My youtube channel: [Byte Snatcher Codes](https://www.youtube.com/@ByteSnatcherCodes)
