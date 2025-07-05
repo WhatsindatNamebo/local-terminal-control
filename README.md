@@ -1,4 +1,4 @@
-# local-terminal-control
+# Let AI Control Your Terminal
 
 This is a simple script that allows you to type in a simple prompt into it, and the ai will use your terminal to execute all of the commands you need to make your request happen.
 
